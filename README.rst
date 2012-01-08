@@ -1,3 +1,24 @@
+------
+
+------
+
+============
+UNMAINTAINED
+============
+
+**This repository is unmaintained!**
+
+The code of plone-mode is not stable and not really implemented.
+
+Most of the features described here are integrated into `e-max <http://github.com/senny/e-max>`_ as ``plone``-bundle.
+
+
+------
+
+------
+
+
+
 plone-mode.el
 =============
 
